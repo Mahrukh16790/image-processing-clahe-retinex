@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+# Data (never commit real data)
+*.csv
+*.xlsx
+*.parquet
+data/
+# Power BI
+*.pbix
+# OS
+.DS_Store
